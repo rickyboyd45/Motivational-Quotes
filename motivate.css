@@ -13,21 +13,24 @@ body{
 .headerDiv {
   padding: 10px 0;
   color: rgba(0, 0, 0, 0.708);
+  font-family: 'Rubik', sans-serif;
 }
 
 .textDiv {
   text-align: center;
   color: rgba(0, 0, 0, 0.708);
+  font-family: 'Rubik', sans-serif;
 }
 
 .chakra {
   max-width: 350px;
 }
 
-.quote {
+.container {
   background: none;
-  padding: auto;
-  margin-top: 20px;
+  margin-top: 15px;
+  font-family: 'Rubik', sans-serif;
+  color: rgba(0, 0, 0, 0.708);
 }
 
 
