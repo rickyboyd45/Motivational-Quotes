@@ -27,6 +27,12 @@ https://whimsical.com/project-1-UNxBJmdA9uvMktdqyEM5Co
 
 # MVP/PostMVP
 
-# MVP
+# Project Schedule
 
-# PostMVP
+# Priority Matrix
+
+# Timeframes
+
+# Code Snippet
+
+#Change Log
