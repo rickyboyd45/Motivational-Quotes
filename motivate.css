@@ -1,8 +1,13 @@
+
+
 body{
   background: hsl(53, 68%, 78%);
   text-align: center;
   flex-shrink: 3;
   flex-grow: inherit;
+
+  display: flex;
+  flex-direction: column;
 }
 
 .headerDiv {
@@ -25,10 +30,7 @@ body{
   margin-top: 20px;
 }
 
-.line {
-    border: 1px solid rgba(0, 0, 0, 0.708);
-    margin-top: 50px;
-}
+
 
 #submit {
   background-color: rgb(0, 99, 104);
@@ -43,3 +45,26 @@ body{
   cursor: pointer;
   border-radius: 12px;
 }
+
+.text {
+  font-size: 20px;
+  font-style: normal;
+  padding: 20px 0;
+}
+
+.author {
+  font-size: 18px;
+  font-style: normal;
+  padding: 15px 0;
+}
+
+.container {
+  border: 5px;
+  border-radius: 8px;
+}
+
+.button {
+padding: 15px;
+}
+
+
