@@ -1,7 +1,7 @@
 
 
 body{
-  background: hsl(53, 68%, 78%);
+  background: rgb(237, 228, 161);
   text-align: center;
   flex-shrink: 3;
   flex-grow: inherit;
@@ -11,9 +11,10 @@ body{
 }
 
 .headerDiv {
-  padding: 10px 0;
+  padding: 0;
   color: rgba(0, 0, 0, 0.708);
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Dancing Script', cursive;
+  font-size: 30px;
 }
 
 .textDiv {
@@ -27,7 +28,6 @@ body{
 }
 
 .container {
-  background: none;
   margin-top: 15px;
   font-family: 'Rubik', sans-serif;
   color: rgba(0, 0, 0, 0.708);
@@ -51,13 +51,13 @@ body{
 
 .text {
   font-size: 20px;
-  font-style: normal;
+  font-family: 'Barlow Condensed', sans-serif;
   padding: 10px 0;
 }
 
 .author {
   font-size: 18px;
-  font-style: normal;
+  font-family: 'Barlow Condensed', sans-serif;
   padding: 15px 0;
 }
 
@@ -67,11 +67,17 @@ body{
 }
 
 .button {
-padding: 15px;
+padding: -10px 0 15px 0;
 }
 
 .line {
   border: 1px solid rgba(0, 0, 0, 0.708);
-  margin-top: 10px;
+  margin-top: 0px;
   margin-bottom: 5px;
+}
+
+.wtd {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 20px;
+  color: rgb(0, 99, 104);
 }

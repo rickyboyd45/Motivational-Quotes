@@ -7,7 +7,7 @@ let quotes, mix;
 
 
 
-const newQuote = () => {
+const makeQuote = () => {
   quotes = mix;
   mix = Math.floor(Math.random() * 1600);
 
@@ -24,6 +24,6 @@ const newQuote = () => {
   
 }
 
-submitButton.addEventListener("click", newQuote);
+submitButton.addEventListener("click", makeQuote);
 
 
