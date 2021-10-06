@@ -2,9 +2,11 @@
 
 
 # Product Description
+
 This website will give the user access to randomized motivational quotes that will help them get their mind off of any worries they might be facing to start their day off right!
 
 # API and Data Sample
+
 https://type.fit/api/quotes
 
 ```[
@@ -35,4 +37,12 @@ https://whimsical.com/project-1-UNxBJmdA9uvMktdqyEM5Co
 
 # Code Snippet
 
-# Change Log
+This is the code I used to randomize the data from my API.
+
+```
+let quotes, mix;
+
+const makeQuote = () => {
+  quotes = mix;
+  mix = Math.floor(Math.random() * 1600);
+  ```
