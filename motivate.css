@@ -11,10 +11,14 @@ body{
 }
 
 .headerDiv {
-  padding: 0;
+  margin: 10px;
   color: rgba(0, 0, 0, 0.708);
   font-family: 'Dancing Script', cursive;
   font-size: 30px;
+  border: 3px solid rgb(8, 8, 8);
+  border-radius: 12px;
+  background-color: rgb(0, 99, 104);
+  color: rgba(255, 255, 255, 0.749);
 }
 
 .textDiv {
