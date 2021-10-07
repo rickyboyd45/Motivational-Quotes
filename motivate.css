@@ -85,7 +85,7 @@ padding: -10px 0 15px 0;
   body {
     display: flex;
     flex-direction: column;
-    font-size: 28px;
+    font-size: 24px;
     margin: 20px 60px;
   }
 
@@ -94,7 +94,7 @@ padding: -10px 0 15px 0;
   }
 
 #submit {
-  font-size: 28px;
+  font-size: 24px;
 }
 
 .chakra {
@@ -102,7 +102,7 @@ padding: -10px 0 15px 0;
   }
 
   .wtd {
-    font-size: 32px;
+    font-size: 24px;
   }
 
   .text {
