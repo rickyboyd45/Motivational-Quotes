@@ -11,7 +11,7 @@ This website will give the user access to randomized motivational quotes that wi
 https://type.fit/api/quotes
 
 ```
-                                                               [
+[
 {
 text: "Genius is one percent inspiration and ninety-nine percent perspiration.",
 author: "Thomas Edison"
